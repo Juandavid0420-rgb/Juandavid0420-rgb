@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">I am from Colombia<br><br>- 📚 Currently, I am learning software architecture, design patterns, microservices, cloud and geo-referencing technologies.<br><br>- ⚡ In my free time I like to exercise, play video games and sleep. <br><br>- 💻 Get to know my experience https://davidfer1112.github.io/Portfolio</p>
+<p align="left">About me I'm from Colombia - 📚 I'm currently learning Web Development, Database Administration - ⚡ In my free time I like to exercise, play video games, travel on the road, take photos. - 💻 Learn about my experience:</p>
 
 ###
 
