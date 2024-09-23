@@ -5,13 +5,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/david-fernando-pérez-medina-287451268/" target="_blank">
+  <a href="https://www.linkedin.com/in/juan-david-s%C3%A1nchez-a-442905243/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
   </a>
-  <a href="mailto:davidfernando1112@gmail.com">
+  <a href="mailto:juandavid0420@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
   </a>
-  <a href="mailto:davidf-perezm@javeriana.edu.co">
+  <a href="mailto:juandsanchez@javeriana.edu.co">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="microsoft-outlook logo"  />
   </a>
   
@@ -23,7 +23,7 @@
 <div align="center">
   <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=davidfer1112.davidfer1112&"  /> -->
 
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdavidfer1112&label=Visitors&countColor=%232c94e4&style=flat)
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjuandavid0420-rgb&label=Visitors&countColor=%232c94e4&style=flat)
 
 </div>
 
@@ -78,7 +78,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juandavid0420-rbg&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Juandavid0420-rgb&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juandavid0420-rgb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=blueberry&hide_border=true&order=2&exclude_repo=HTML,css" height="150" alt="languages graph" />
 
   <img src="https://streak-stats.demolab.com?user=Juandavid0420-rgb&locale=en&mode=daily&theme=blueberry&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
