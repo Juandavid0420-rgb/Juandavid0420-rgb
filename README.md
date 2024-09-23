@@ -33,44 +33,6 @@
 
 ###
 
-<h3 align="left">🧑‍💻  About Me</h3>
-
-###
-
-<div align="center">
-  <img height="250" src="octocat-1693933333476.png"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/david-fernando-pérez-medina-287451268/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:davidfernando1112@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
-  </a>
-  <a href="mailto:davidf-perezm@javeriana.edu.co">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="microsoft-outlook logo"  />
-  </a>
-  
-  
-</div>
-
-###
-
-<div align="center">
-  <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=davidfer1112.davidfer1112&"  /> -->
-
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdavidfer1112&label=Visitors&countColor=%232c94e4&style=flat)
-
-</div>
-
-###
-
-<h1 align="center">Hi, I'm David Perez 👋</h1>
-
-###
 
 <h3 align="left">🧑‍💻  About Me</h3>
 
