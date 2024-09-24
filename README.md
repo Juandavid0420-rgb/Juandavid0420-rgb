@@ -74,7 +74,7 @@
   <img width="15" />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="35" alt="c logo"  />
   <img wisth="12" />
-  <img src="https://img.shields.io/badge/R-A8B9CC?logo=r&logoColor=blue&style=for-the-badge" height="35" alt="r logo"  />
+  <img src="https://img.shields.io/badge/R-3776AB?logo=r&logoColor=white&style=for-the-badge" height="35" alt="R logo"  />
 
 </div>
 
