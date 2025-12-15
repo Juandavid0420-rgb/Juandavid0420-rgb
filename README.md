@@ -44,7 +44,18 @@
 
 ###
 
-<p align="left">About me I'm from Colombia - 📚 I'm currently learning Web Development, Database Administration - ⚡ In my free time I like to exercise, play video games, travel on the road, take photos. - 💻 Learn about my experience: </p>
+<p align="left">
+I'm a Systems Engineering student at Pontificia Universidad Javeriana (Bogotá, Colombia), with a focus on cybersecurity and a strong interest in artificial intelligence and automation.
+<br><br>
+I have academic experience in software development, working with Kotlin, C++, Python, and Java, as well as building Android applications and algorithm-oriented systems.
+<br><br>
+Currently, I'm exploring automation and virtual assistants using <b>n8n</b>, integrating APIs and AI services to better understand how intelligent systems work internally.
+<br><br>
+Beyond technology, I’m passionate about training at the gym, traveling, discovering new places, and photography. I enjoy capturing the places I visit and connecting with new people, as I believe social interaction and curiosity are key to personal and professional growth.
+<br><br>
+I value discipline, adaptability, and communication, and I’m motivated by continuous learning and building practical, real-world solutions through technology.
+</p>
+
 
 ###
 
