@@ -1,42 +1,4 @@
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/214643718-d3e8485d-27fb-4450-bb8a-a88d73671d93.jpg"  />
-</div>
-
-###
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/juan-david-s%C3%A1nchez-a-442905243/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:juandavid0420@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
-  </a>
-  <a href="mailto:juandsanchez@javeriana.edu.co">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="microsoft-outlook logo"  />
-  </a>
-  
-  
-</div>
-
-###
-
-<div align="center">
-  <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=davidfer1112.davidfer1112&"  /> -->
-
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjuandavid0420-rgb&label=Visitors&countColor=%232c94e4&style=flat)
-
-</div>
-
-###
-
-<h1 align="center">Hi, I'm Juan David Sanchez 😁</h1>
-
-###
-
-
-<h3 align="left">🧑‍💻  About Me</h3>
 
 ###
 
@@ -44,74 +6,86 @@
 
 ###
 
-<p align="left">
-I'm a Systems Engineering student at Pontificia Universidad Javeriana (Bogotá, Colombia), with a focus on cybersecurity and a strong interest in artificial intelligence and automation.
-<br><br>
-I have academic experience in software development, working with Kotlin, C++, Python, and Java, as well as building Android applications and algorithm-oriented systems.
-<br><br>
-Currently, I'm exploring automation and virtual assistants using <b>n8n</b>, integrating APIs and AI services to better understand how intelligent systems work internally.
-<br><br>
-Beyond technology, I’m passionate about training at the gym, traveling, discovering new places, and photography. I enjoy capturing the places I visit and connecting with new people, as I believe social interaction and curiosity are key to personal and professional growth.
-<br><br>
-I value discipline, adaptability, and communication, and I’m motivated by continuous learning and building practical, real-world solutions through technology.
-</p>
 
+# Juan David Sánchez Alfonso
 
-###
+**Estudiante de Ingeniería de Sistemas · Pontificia Universidad Javeriana · Bogotá, Colombia**
 
-<br/>
+Construyo software donde la inteligencia artificial resuelve problemas reales.
+Legaltech, educación y logística — siempre enfocado en el problema primero.
 
-<h3 align="left">🛠 Language and tools</h3>
+[![Portfolio](https://img.shields.io/badge/Portafolio-juandavid0420--rgb.github.io-7c6dfa?style=for-the-badge&logoColor=white)](https://juandavid0420-rgb.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juandavidsanchezalfonso)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juandavid0420@gmail.com)
 
-###
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="35" alt="cplusplus logo"  />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="35" alt="mysql logo"  />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="35" alt="css3 logo"  />
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="35" alt="angularjs logo"  />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="35" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="35" alt="c logo"  />
-  <img wisth="12" />
-  <img src="https://img.shields.io/badge/R-3776AB?logo=r&logoColor=white&style=for-the-badge" height="35" alt="R logo"  />
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjuandavid0420-rgb&label=Visitors&countColor=%237c6dfa&style=flat)
 
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+## Sobre mí
 
-###
+Soy estudiante de Ingeniería de Sistemas con foco en construir **productos reales desde la universidad**. Me interesa la intersección donde la capacidad técnica y las necesidades humanas hacen match — ese punto donde la tecnología deja de ser herramienta y se convierte en infraestructura para un futuro mejor.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juandavid0420-rgb&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juandavid0420-rgb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=blueberry&hide_border=true&order=2&exclude_repo=HTML,css" height="150" alt="languages graph" />
+Trabajo principalmente en **IA aplicada, producto digital y automatización de procesos**, con proyectos activos en legaltech y educación, y exploración en logística inteligente.
 
-  <img src="https://streak-stats.demolab.com?user=Juandavid0420-rgb&locale=en&mode=daily&theme=blueberry&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+---
+
+## Proyectos
+
+### 🟣 Temira — Asistente jurídico con IA
+Plataforma de IA entrenada con normas colombianas y sentencias reales para estudiantes de derecho.
+Permite consultar y analizar jurisprudencia de forma conversacional.
+`Next.js` `Supabase` `IA generativa` `RAG` · **[temira.co](https://temira.co)** · **Activo**
+
+### 🟡 AprobaIA — Preparación inteligente para el ICFES
+PWA con IA adaptativa para identificar áreas débiles y personalizar la preparación al examen universitario.
+Incluye simuladores, ciclos con streaks y consejería académica.
+`Next.js 14` `Wompi` `PWA` · **[aprobaia.co](https://aprobaia.co)** · En desarrollo
+
+### 🔵 VeloStats — App de seguimiento en bicicleta
+Aplicación Android para registrar rutas GPS, visualizar recorridos en Google Maps y consultar estadísticas de rendimiento.
+`Kotlin` `Android` `Google Maps SDK` `MVVM` `Room DB` · Javeriana 2025
+
+### ⚙️ Motor de Mallas Poligonales
+Sistema en C++ para procesamiento de archivos 3D, cálculo de rutas entre vértices y detección de discontinuidades geométricas.
+`C++` `Estructuras de datos` `Geometría computacional` · Javeriana
+
+---
+
+## Stack técnico
+
+<div align="left">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 </div>
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidfer1112/davidfer1112/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidfer1112/davidfer1112/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davidfer1112/davidfer1112/output/github-contribution-grid-snake.svg">
-</picture>
+## Stats
 
+<div align="center">
 
-###
+<img src="https://github-readme-stats.vercel.app/api?username=Juandavid0420-rgb&hide_title=true&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juandavid0420-rgb&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150" />
 
-###
+<img src="https://streak-stats.demolab.com?user=Juandavid0420-rgb&theme=tokyonight&hide_border=true&border_radius=5" height="150" />
 
+</div>
+
+---
+
+<div align="center">
+
+**[→ Ver portafolio completo](https://juandavid0420-rgb.github.io)**
+
+</div>
